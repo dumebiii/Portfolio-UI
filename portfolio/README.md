@@ -1,6 +1,6 @@
 # portfolio
 
-A new Flutter project.
+Creative and Detailed Portfolio UI
 
 ## Getting Started
 
